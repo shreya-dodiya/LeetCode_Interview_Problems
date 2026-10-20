@@ -22,9 +22,6 @@ Welcome to my LeetCode Problem Solutions repository! This project serves as a cu
 * ✅ Highlights the engineering progression from brute-force tactics to highly optimized approaches.
 * ✅ The repository is continuously updated as I solve and master more problems.
 
-🗺️ Algorithmic Index
--------------------
-
 🎯 Objectives
 --------------
 * Strengthen core analytical and programmatic problem-solving logic.
