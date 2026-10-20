@@ -9,7 +9,7 @@ Welcome to my LeetCode Problem Solutions repository! This project serves as a cu
 * Passionate Problem Solver & Programmer
 * Core Language: C++
 
-🌐 Profiles
+🌐 Profiles 
 ------------
 * **LeetCode:** [leetcode.com/u/shreya_dodiya/](ttps://leetcode.com/u/shreya_dodiya/)
 * **GitHub:** [github.com/shreya-dodiya](https://github.com/shreya-dodiya)
