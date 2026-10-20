@@ -7,7 +7,7 @@
 #include <vector>
 #include <cmath>
 
-class Solution {
+class Solution { 
 public:
     int trap(std::vector<int>& height) {
          // An array with fewer than 3 bars cannot trap any water with (1 or 2) bars
